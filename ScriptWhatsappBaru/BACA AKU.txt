@@ -1,0 +1,13 @@
+Pre instal
+- instal nodejs [https://nodejs.org/en/download/]
+- instal git cmd [https://git-scm.com/downloads]
+
+Proses pemasangan
+- ekstrak file botnya
+- buka cmd atau git cmd tadi
+- ketik npm install
+- untuk menjalankan botnya ketik node index.js
+
+Edit sc
+- untuk mengedit menu ada di menu.js
+- untuk mengedit nomor owner bot dan foto menu ada di config.js
